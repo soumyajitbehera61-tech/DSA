@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -16,5 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
