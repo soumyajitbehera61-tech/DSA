@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
