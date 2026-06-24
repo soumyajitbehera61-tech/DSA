@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0057-insert-interval) |
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
