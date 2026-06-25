@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0986-interval-list-intersections](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
