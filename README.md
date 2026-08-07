@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0162-find-peak-element) |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0435-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
