@@ -74,9 +74,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
