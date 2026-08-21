@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0162-find-peak-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
