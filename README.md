@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0986-interval-list-intersections](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0986-interval-list-intersections) |
 ## String
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0189-rotate-array) |
 ## Newton's Method
 |  |
 | ------- |
