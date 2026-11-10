@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0875-koko-eating-bananas) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0986-interval-list-intersections](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
@@ -62,11 +65,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0179-largest-number) |
+| [0349-intersection-of-two-arrays](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
