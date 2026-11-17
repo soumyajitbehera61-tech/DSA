@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0986-interval-list-intersections) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyajitbehera61-tech/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyajitbehera61-tech/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sweep Line
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soumyajitbehera61-tech/DSA/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/soumyajitbehera61-tech/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
